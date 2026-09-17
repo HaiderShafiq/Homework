@@ -1,0 +1,8 @@
+#Email: haider.shafiq72@login.cuny.edu
+#Name: Haider Shafiq
+
+phrase = input("Enter a phrase: ")
+phrase = phrase.lower()
+
+for c in phrase:
+    print(c, ord(c))
