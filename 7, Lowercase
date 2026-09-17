@@ -1,3 +1,6 @@
+#Email: haider.shafiq72@login.cuny.edu
+#Name: Shafiq Haider
+
 phrase = input("Enter a phrase: ")
 phrase = phrase.lower()
 
